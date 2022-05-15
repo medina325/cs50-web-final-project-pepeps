@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Distinctiveness and Complexity](#distinctiveness-and-complexity)
 - [Requirements](#requirements)
+- [How to Run](#how-to-run)
 
 ## Introduction
 I started my journey with the CS50's Web course as a undergraduate student. It was the first course I took outside the university and made me learn a lot within a very short time. I managed to deliver every previous project within 6 months, from June to December, however after I landed my first internship in January (in many ways thanks to the knowledge I achieved with this course) and with the final semesters of my undergraduate course upon me, I struggled to finish the final project. Now, more than a year later, here I am with an idea I believe can finally make me finish this course with pride!
@@ -21,7 +22,7 @@ All of these ideas came from the numerous experiences me and my girlfriend faced
 <img src='' alt='Nugget'>
 
 ## Distinctiveness and Complexity
-
+TODO
 <!--  
 It reaches new levels of:
 - frontend organization (html, css and js folder structure)
@@ -57,3 +58,6 @@ The requirements listed below is a filtered list from many many ideas, that shou
   - A pet sitting should be added to the sitter's history after it's conclusion. The pet sitting is concluded after the user gets his/her pet back and hit the conclusion button of the sitting page.
   - Every user should be able to check a list of it's active hired pet sitters.
   - Every user should be able to check a list of it's previous hired pet sitters.
+
+## How to Run
+TODO
