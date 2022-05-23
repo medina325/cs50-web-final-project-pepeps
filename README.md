@@ -34,30 +34,41 @@ It reaches new levels of:
 -->
 
 ## Requirements
-The requirements listed below is a filtered list from many many ideas, that should suffice the scope of this project.
-
-- **Users**: Users will have to pick from 2 different profiles: Enterprise or Home.
-  - Enterprise users will be able to: have many stores, each store will have to mark at least one out of the 3 services: petstore, veterinary clinic and hotel.
-  - Home users will be able to: buy products, require services (detailed below) from the petstores available, announce themselves as Pet Sitters, create a registration for each of their pets.
-- **Stores Page**: Page that displays all the stores.
-  - Users should be able to filter stores by their company, location (country, state and city) and services available.
+- **Main Page**: Main page that introduces all the center ideas around the website (services, products, tips to take better care of pets).
+- **Sign In / Sign Up Pages**: Single page for signing in or signing up.
+- **User Page**: Page that displays user information.
+  - Users should be able to see and edit their personal data in this page.
+  - Users should be able to: buy products, require services (detailed below), register themselves as Pet Sitters, register their pets.
+  - Users should be able to check for current and previous hired services (hotel, pet sitter).
+  - For the pet's registration, users should register the pet's: name, gender, race, weight, birthday, vaccines.
+- **Pet's Page**: Page where the user's registered pets will be displayed.
+  - Every pet should be displayed in a card, that shows detailed information about the pet.
+  - Every pet should have a digital vaccine card.
 - **Pet Hotels Page**: Page that displays pet hotels options.
   - Every option should have, in it's own page: a name, description, contact information, payment methods accepted, at least 3 photos of the place and one of the host, ratings (1-5 stars) and commentaries left by previous clients.
   - Users should be able to filter out stores based on their rating and available schedule.
   - After the user chooses a place, they should be able to schedule a visit if they like, or just schedule the period the pet is gonna stay (maximum period of one month).
   - After that, the user has to describe the reason for leaving their dog and choose a payment method.
   - Users should be able to see how is the schedule through a calendar.
-- **Pet Products Page**: This page displays all products from every petstore.
-  - Every product should have a name, description, 3 to 5 photos, price, 1-5 stars rating, questions section, related products listed next to it.
-  - Users should be able to filter out products based on their rating and number of sold units.
-- **Veterinary Clinic Page**: Page where the user can schedule veterinary consultations, buy medicine and them delivered.
-- **Enterprise Page**: Page that displays the name, description, logo of the company; and a summary of all the services it provides.
-  - Every service should be clickable and redirect the user to the service's page (pet hotel, petstore or veterinary clinic).
+- **Pet Products Page**: This page displays all products.
+  - Users should be able to filter out products based on their brand, rating and number of sold units.
+  - Every product should have: name, description, brand, 3 to 5 photos, price, 1-5 stars rating.
+- **Veterinary Clinic Page**: Page where the user can schedule veterinary consultations.
 - **Pet Sitter Page**: Page where all the information of the user as a pet sitter will be displayed.
-  - This page must contain the sitter's: name, address, age, 3 to 5 photos, description of it' experience with pets, schedule available, history with previous pets.
-  - A pet sitting should be added to the sitter's history after it's conclusion. The pet sitting is concluded after the user gets his/her pet back and hit the conclusion button of the sitting page.
+  - This page must contain the sitter's: name, address, age, 3 to 5 photos, description of his/her experience with pets, schedule available, history with previous pets.
+  - A pet sitting record should be added to the sitter's history after it's conclusion. The pet sitting is concluded after the user gets his/her pet back and hit the conclusion button of the sitting page.
   - Every user should be able to check a list of it's active hired pet sitters.
   - Every user should be able to check a list of it's previous hired pet sitters.
+
+<!-- ### For the future
+- **Users**: Users will have to pick from 2 different profiles: Enterprise or Home.
+  - Enterprise users will be able to: have many stores, each store will have to mark at least one out of the 3 services: petshop, veterinary clinic and hotel.
+  - Home users will be able to: buy products, require services (detailed below) from the petshops available, announce themselves as Pet Sitters, create a registration for each of their pets.
+- **Enterprise Page**: Page that displays the name, description, logo of the company; and a summary of all the services it provides.
+  - Every service should be clickable and redirect the user to the service's page (pet hotel, petshop or veterinary clinic).
+- **Stores Page**: Page that displays all the stores.
+  - Users should be able to filter stores by their company, location (country, state and city) and services available.
+- ... -->
 
 ## How to Run
 TODO
