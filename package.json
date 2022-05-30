@@ -1,0 +1,22 @@
+{
+  "name": "cs50-web-final-project-pepeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medina325/cs50-web-final-project-pepeps.git"
+  },
+  "author": "Gabriel Medina Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medina325/cs50-web-final-project-pepeps/issues"
+  },
+  "homepage": "https://github.com/medina325/cs50-web-final-project-pepeps#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

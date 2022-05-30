@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# For Node dependencies
+node_modules
+
+# Compiled css
+bootstrap.min.css
+bootstrap.min.css.map
